@@ -12,3 +12,5 @@ function App() {
 }
 
 export default App
+
+//This is the Mid master management of the Components
