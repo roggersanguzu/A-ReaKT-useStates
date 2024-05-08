@@ -13,5 +13,4 @@ const ErrorExample = () => {
   </React.Fragment>
   );
 };
-
 export default ErrorExample;
